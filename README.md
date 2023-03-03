@@ -77,7 +77,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Arman92/go-tdlib"
+	"github.com/overjt/go-tdlib"
 )
 
 func main() {
@@ -145,7 +145,7 @@ func main() {
 
 ```
 
-More examples can be found on [examples folder](https://github.com/Arman92/go-tdlib/tree/master/examples)
+More examples can be found on [examples folder](https://github.com/overjt/go-tdlib/tree/master/examples)
 
 ## Contributors ✨
 
